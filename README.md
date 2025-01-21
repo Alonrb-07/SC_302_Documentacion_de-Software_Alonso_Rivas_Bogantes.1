@@ -1,0 +1,2 @@
+# SC_302_Documentacion_de-Software_Alonso_Rivas_Bogantes.1
+Laboratorio de Github_Alonso.1
